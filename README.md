@@ -4,12 +4,12 @@ My Simple Portfolio Website is a personal portfolio designed to effectively show
 
 Key Features:
 
-Responsive Layout: the design adapts seamlessly to various screen sizes, ensuring a great user experience on both desktop and mobile device.
-Project Showcase: A dedicated section highlighting my key skills, providing description and links to live demo or repositories.
-About Me: A brief introduction that outlines my background and relevant skills.
+Responsive Layout: the design adapts seamlessly to various screen sizes, ensuring a great user experience on both desktop and mobile device.  
+Project Showcase: A dedicated section highlighting my key skills, providing description and links to live demo or repositories.  
+About Me: A brief introduction that outlines my background and relevant skills.  
 Contact Information: Easy access to my email and social media profile. 
 
 Technologies Used:
 
-HTML5: For structuring the content and ensuring semantic markup.
+HTML5: For structuring the content and ensuring semantic markup.  
 CSS: For styling the website, enhancing its visual appeal with custom styles and layouts.
